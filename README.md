@@ -1,6 +1,6 @@
 # Toy Language Interpreter in Java
 
-This project is a comprehensive toy language interpreter implemented in Java, created as a project for my third semester at university . It is designed to execute programs written in a simplified language, handling various operations and control flow structures. This project does not rely on a lexer or parser; instead, it directly processes Abstract Syntax Trees (ASTs) provided to it.
+This project is a comprehensive toy language interpreter implemented in Java, created as a project for my third semester at university. It is designed to execute programs written in a simplified language, handling various operations and control flow structures. This project does not rely on a lexer or parser; instead, it directly processes Abstract Syntax Trees (ASTs) provided to it.
 ## Features
 
 - **Graphical User Interface (GUI):** The interpreter comes with a GUI built using JavaFX. It provides visual representations of the execution steps, illustrating how each operation affects the underlying data structures.
@@ -28,7 +28,7 @@ This project is a comprehensive toy language interpreter implemented in Java, cr
 To use the interpreter:
 
 1. Run the Java program.
-2. Use the GUI interface to load or input programs written in the toy language.
+2. Use the GUI interface to load programs written in the toy language.
 3. Execute the program to observe the step-by-step execution and the impact on underlying data structures, or run it all at once to see the outputs.
 4. Analyze the results to understand program behavior and data manipulation.
 
@@ -42,4 +42,4 @@ To use the interpreter:
 1. Clone or download the repository.
 2. Set up your Java development environment.
 3. Ensure JavaFX is properly configured.
-4. Compile and run the main Java file containing the interpreter.
+4. Run the main Java file containing the interpreter.
