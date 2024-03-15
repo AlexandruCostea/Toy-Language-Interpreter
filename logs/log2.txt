@@ -1,0 +1,1785 @@
+Program id: 2
+---------------------------
+Execution Stack:
+int a;
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+18;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+18;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+18;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+18;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=(2 + (3 * 5));
+
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=(a + 1);
+
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->17;
+b-->18;
+
+Heap:
+
+File Table:
+
+Output:
+18;
+
+---------------------------
+

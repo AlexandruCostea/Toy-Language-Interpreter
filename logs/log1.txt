@@ -1,0 +1,930 @@
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+2;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+2;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+2;
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int v;
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+2;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int v;
+
+v=2;
+Print(v);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+v=2;
+
+Print(v);
+
+
+Symbol Table:
+v-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(v);
+
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->2;
+
+Heap:
+
+File Table:
+
+Output:
+2;
+
+---------------------------
+Semaphore table:
+
+---------------------------
+

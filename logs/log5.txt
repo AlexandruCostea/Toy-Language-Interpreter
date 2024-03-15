@@ -1,0 +1,2340 @@
+Program id: 5
+---------------------------
+Execution Stack:
+string varf;
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+string varf;
+
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+string varf;
+
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+varf=files/test.in;
+
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+varf=files/test.in;
+
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+int varc;
+
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+int varc;
+
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+Print(varc);
+
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@49fd8dc8;
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 5
+---------------------------
+Execution Stack:
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+string varf;
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+string varf;
+
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+string varf;
+
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+varf=files/test.in;
+
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+varf=files/test.in;
+
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+int varc;
+
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+int varc;
+
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(varc);
+
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@6b194b11;
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+string varf;
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+string varf;
+
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+string varf;
+
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+varf=files/test.in;
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+varf=files/test.in;
+
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+varf=files/test.in;
+
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+OpenRFile(varf);
+
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int varc;
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int varc;
+
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int varc;
+
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->0;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+readFile(varf,varc);
+
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->15;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(varc);
+
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+closeRFile(varf);
+
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+files/test.in-->java.io.BufferedReader@782fd80b;
+
+Output:
+15;
+50;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+
+Symbol Table:
+varf-->files/test.in;
+varc-->50;
+
+Heap:
+
+File Table:
+
+Output:
+15;
+50;
+
+---------------------------
+

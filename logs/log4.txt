@@ -1,0 +1,478 @@
+Program id: 4
+---------------------------
+Execution Stack:
+int a;
+int b;
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int b;
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int b;
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int b;
+
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+int b;
+
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+a=2;
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+a=2;
+
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+a=2;
+
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->2;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+b=3;
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->2;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+b=3;
+
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->2;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+b=3;
+
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->2;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->2;
+b-->3;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+if((a < b)) then {
+   Print(a);
+}
+else{
+   Print(b);
+}
+
+
+Symbol Table:
+a-->2;
+b-->3;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(a);
+
+
+Symbol Table:
+a-->2;
+b-->3;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(a);
+
+
+Symbol Table:
+a-->2;
+b-->3;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->2;
+b-->3;
+
+Heap:
+
+File Table:
+
+Output:
+2;
+
+---------------------------
+

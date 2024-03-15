@@ -1,0 +1,1170 @@
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+int b;
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int a;
+
+int b;
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int b;
+
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int c;
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int c;
+
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int c;
+
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=1;
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=1;
+
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+a=1;
+
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->0;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=2;
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=2;
+
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+b=2;
+
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->0;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+c=5;
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+c=5;
+
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+c=5;
+
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+switch((a * 10)) {
+(case (b * c)):
+Print(a);
+Print(b);
+
+(case 10):
+Print(100);
+Print(200);
+
+(default):
+Print(300);
+
+}
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+if(((a * 10) == (b * c))) then {
+   Print(a);
+Print(b);
+}
+else{
+   if(((a * 10) == 10)) then {
+   Print(100);
+Print(200);
+}
+else{
+   Print(300);
+}
+}
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+if(((a * 10) == (b * c))) then {
+   Print(a);
+Print(b);
+}
+else{
+   if(((a * 10) == 10)) then {
+   Print(100);
+Print(200);
+}
+else{
+   Print(300);
+}
+}
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(a);
+Print(b);
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(a);
+Print(b);
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(a);
+
+Print(b);
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(a);
+
+Print(b);
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+1;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(b);
+
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+1;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+1;
+2;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print(300);
+
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+1;
+2;
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+a-->1;
+b-->2;
+c-->5;
+
+Heap:
+
+File Table:
+
+Output:
+1;
+2;
+300;
+
+---------------------------
+

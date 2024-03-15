@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="map.interpreter.interpreter6.ProgramController"
+      style="-fx-background-color: #333333">
+    <padding>
+        <Insets bottom="10.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+    <HBox alignment="CENTER" spacing="20.0">
+        <Label text="Number of program states:" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+        <TextField fx:id="prgCount" prefWidth="50" editable="false" style="-fx-background-color: #333333; -fx-text-fill: #B87400"/>
+        <Button fx:id = "oneStepButton" text="One Step" style="-fx-background-color: #B87400" onMouseClicked="#oneStep"/>
+        <Button fx:id = "allStepButton" text="All Steps" style="-fx-background-color: #B87400" onMouseClicked="#allStep" />
+    </HBox>
+
+    <HBox alignment="CENTER" spacing="20.0">
+        <VBox alignment="CENTER">
+            <Label text="EXE STACK" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+            <ListView fx:id="exeStack" prefWidth="150" prefHeight="200" style=" -fx-control-inner-background: #B87400"/>
+        </VBox>
+
+        <VBox alignment="CENTER" spacing="40">
+            <HBox alignment="CENTER" spacing="20.0">
+
+                <VBox alignment="CENTER">
+                    <Label text="OUT" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+                    <ListView fx:id="out" prefWidth="120" prefHeight="100" style=" -fx-control-inner-background: #B87400"/>
+                </VBox>
+
+                <VBox alignment="CENTER">
+                    <Label text="FILE TABLE" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+                    <TableView fx:id="files" prefWidth="385" prefHeight="100" style="-fx-background-color: #B87400">
+                        <columns>
+                            <TableColumn text="Address" fx:id="fileNameCol" prefWidth="125" style="-fx-background-color: #A36300"/>
+                            <TableColumn text="Value" fx:id="readerCol" prefWidth="260" style="-fx-background-color: #A36300"/>
+                        </columns>
+                    </TableView>
+                </VBox>
+            </HBox>
+
+            <HBox alignment="CENTER" spacing="20.0">
+
+                <VBox alignment="CENTER">
+                    <Label text="PROG STATES" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+                    <ListView fx:id="programs" prefWidth="70" prefHeight="100" style=" -fx-control-inner-background: #B87400"
+                            onMouseClicked="#programSelected"/>
+                </VBox>
+
+                <VBox alignment="CENTER">
+                    <Label text="HEAP" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+                    <TableView fx:id="heap" prefWidth="220" prefHeight="100" style="-fx-background-color: #B87400">
+                        <columns>
+                            <TableColumn text="Address" fx:id="adrCol" style="-fx-background-color: #A36300"/>
+                            <TableColumn text="Value" fx:id="valCol" prefWidth="140" style="-fx-background-color: #A36300"/>
+                        </columns>
+                    </TableView>
+                </VBox>
+
+                <VBox alignment="CENTER">
+                    <Label text="SYMBOL TABLE" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+                    <TableView fx:id="symTable" prefWidth="170" prefHeight="100" style="-fx-background-color: #B87400">
+                        <columns>
+                            <TableColumn text="Address" fx:id="variableCol" prefWidth="70" style="-fx-background-color: #A36300"/>
+                            <TableColumn text="Value" fx:id="valueCol" prefWidth="100" style="-fx-background-color: #A36300"/>
+                        </columns>
+                    </TableView>
+                </VBox>
+
+                <VBox alignment="CENTER">
+                    <Label text="SEMAPHORE TABLE" style=" -fx-text-fill: #B87400; -fx-font-weight: bold"/>
+                    <TableView fx:id="semTable" prefWidth="270" prefHeight="100" style="-fx-background-color: #B87400">
+                        <columns>
+                            <TableColumn text="Index" fx:id="indexCol" prefWidth="70" style="-fx-background-color: #A36300"/>
+                            <TableColumn text="Value" fx:id="semValCol" prefWidth="100" style="-fx-background-color: #A36300"/>
+                            <TableColumn text="List" fx:id="listCol" prefWidth="100" style="-fx-background-color: #A36300"/>
+                        </columns>
+                    </TableView>
+                </VBox>
+            </HBox>
+        </VBox>
+    </HBox>
+</VBox>

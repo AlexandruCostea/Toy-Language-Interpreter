@@ -1,0 +1,1076 @@
+Program id: 11
+---------------------------
+Execution Stack:
+Ref(int) v;
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+1->20;
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 11
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+50;
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Ref(int) v;
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+1->20;
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+50;
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Ref(int) v;
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+1->20;
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+50;
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Ref(int) v;
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Ref(int) v;
+
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 20);
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 20);
+
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 50);
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+new(v, 50);
+
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(1,int);
+
+Heap:
+1->20;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+1->20;
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+Print(rH(v));
+
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 4
+---------------------------
+Execution Stack:
+
+Symbol Table:
+v-->Ref(2,int);
+
+Heap:
+2->50;
+
+File Table:
+
+Output:
+50;
+
+---------------------------
+

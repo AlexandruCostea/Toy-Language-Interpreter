@@ -1,0 +1,1201 @@
+Program id: 6
+---------------------------
+Execution Stack:
+int x;
+x=5;
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+int x;
+
+x=5;
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+int x;
+
+x=5;
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=5;
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=5;
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=5;
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=5;
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->5;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->4;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->3;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->2;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+Print(x);
+
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+1;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+x=(x - 1);
+
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->1;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+1;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+1;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+while((x > 0)) {
+Print(x);
+x=(x - 1);
+}
+
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+1;
+
+---------------------------
+
+Program id: 6
+---------------------------
+Execution Stack:
+
+Symbol Table:
+x-->0;
+
+Heap:
+
+File Table:
+
+Output:
+5;
+4;
+3;
+2;
+1;
+
+---------------------------
+

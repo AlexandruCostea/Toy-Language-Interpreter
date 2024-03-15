@@ -1,0 +1,2857 @@
+Program id: 1
+---------------------------
+Execution Stack:
+Ref(int) v1;
+int cnt;
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Ref(int) v1;
+
+int cnt;
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Ref(int) v1;
+
+int cnt;
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int cnt;
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int cnt;
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int cnt;
+
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+int cnt;
+
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+new(v1, 1);
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+new(v1, 1);
+
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+new(v1, 1);
+
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(0,int);
+
+Heap:
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+createSemaphore(cnt,rH(v1));
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+createSemaphore(cnt,rH(v1));
+
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+createSemaphore(cnt,rH(v1));
+
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->0;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+);
+
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+acquire(cnt);
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+fork(acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+);
+
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->1;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(rH(v1));
+
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+Print(rH(v1));
+
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[2];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 2
+---------------------------
+Execution Stack:
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 10));
+
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->10;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 2));
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 2));
+
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+wH(v1, (rH(v1) * 2));
+
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->100;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(rH(v1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(rH(v1));
+
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+Print(rH(v1));
+
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[3];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 3
+---------------------------
+Execution Stack:
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+acquire(cnt);
+
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[1];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print((rH(v1) - 1));
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[1];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print((rH(v1) - 1));
+
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[1];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+Print((rH(v1) - 1));
+
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+
+---------------------------
+Semaphore table:
+1-->0=[1];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+199;
+
+---------------------------
+Semaphore table:
+1-->0=[1];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+release(cnt);
+
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+199;
+
+---------------------------
+Semaphore table:
+1-->0=[1];
+
+---------------------------
+
+Program id: 1
+---------------------------
+Execution Stack:
+
+Symbol Table:
+cnt-->1;
+v1-->Ref(1,int);
+
+Heap:
+1->200;
+
+File Table:
+
+Output:
+10;
+200;
+199;
+
+---------------------------
+Semaphore table:
+1-->0=[];
+
+---------------------------
+
