@@ -32,6 +32,9 @@ To use the interpreter:
 3. Execute the program to observe the step-by-step execution and the impact on underlying data structures, or run it all at once to see the outputs.
 4. Analyze the results to understand program behavior and data manipulation.
 
+
+![](https://github.com/AlexandruCostea/Toy-Language-Interpreter/blob/master/1.png)
+![](https://github.com/AlexandruCostea/Toy-Language-Interpreter/blob/master/2.png)
 ## Requirements
 
 - Java Development Kit (JDK)
